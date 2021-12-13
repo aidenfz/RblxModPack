@@ -2,8 +2,8 @@
 This repo has a lot of mods for roblox.
 
 NOTE>
-This repo contains old mods for roblox (Old Cursors, Old Forcefield, Old Textures, ...).
-NOTE: Some of the compressed files may contain more files (MODS)
+This repo contains old mods for roblox (Old Cursors, Old Forcefield, Old Textures, ...)
+Some of the compressed files may contain more files (MODS).
 
 How to install?
 
